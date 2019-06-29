@@ -9766,7 +9766,7 @@ var about = function about() {
 
 /***/ }),
 
-/***/ 2:
+/***/ 0:
 /*!*******************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fabout&absolutePagePath=%2FUsers%2Fromane%2FDesktop%2Fnext-ssr%2Fpages%2Fabout.js ***!
   \*******************************************************************************************************************************/
@@ -9789,5 +9789,5 @@ module.exports = dll_1aef2d0bbc0d334d831c;
 
 /***/ })
 
-},[[2,"static/runtime/webpack.js"]]]);
+},[[0,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=about.js.map
